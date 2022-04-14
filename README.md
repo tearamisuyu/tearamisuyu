@@ -1,5 +1,4 @@
-<div align="left">
-<h3>I'm Adam and I code things</h3>
+### I'm Adam and I code things</h3>
 
 <p>I also love Hayasaka</p>
 <img width=400px src="https://cdn.discordapp.com/attachments/557281913757368350/964188454177079346/ezgif-5-9390040474.gif" >
@@ -10,4 +9,3 @@
 <p>❄️Learning Rust because it looks cool</p>
 <p>❄️Self studying calculus because it looks funny</p>
 <p>❄️Higher Vocational School Student (IT)</p>
-</div>
